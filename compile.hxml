@@ -1,0 +1,4 @@
+-main Main
+-lib hxnodejs
+-js bin/main.js
+-cp src
