@@ -1,4 +1,4 @@
 -main Main
 -lib hxnodejs
--js bin/main.js
+-js node/main.js
 -cp src
